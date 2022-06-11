@@ -1,5 +1,5 @@
 import React from 'react'
-import capture from '../assets/capture.PNG'
+import capture from '../../assets/capture.PNG'
 
 export default function BottomContent() {
     return (

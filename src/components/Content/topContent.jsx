@@ -1,6 +1,6 @@
 import React from 'react'
-import image from "../assets/image.png"
-import cart from "../assets/cart.png"
+import image from "../../assets/image.png"
+import cart from "../../assets/cart.png"
 
 export default function TopContent() {
     return (

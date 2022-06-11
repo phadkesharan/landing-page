@@ -9,7 +9,6 @@ export default function Content() {
         <TopContent />
         <MainContent />
         <BottomContent />
-        
     </>
 
     )
